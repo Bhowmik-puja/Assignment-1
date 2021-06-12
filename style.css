@@ -1,0 +1,153 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 80px;
+    line-height: 1.4rem;
+    font-weight: normal;
+}
+
+h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 48px;
+    font-weight: normal;
+}
+h4{
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: normal;
+    font-size: 24px;
+    color: #696871;
+    text-align: center;
+    margin-top: 100px;
+    line-height: 0%;
+}
+header {
+    height: 120px;
+}
+
+p {
+    color: #3E3E3E;
+}
+img{
+    width: 100%;
+}
+header ul {
+    margin: 0;
+    padding: 0;
+}
+
+header li {
+    color: #3C3C3C;
+    font-weight: 700;
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+
+header nav {
+    float: right;
+    margin-top: 40px;
+    margin-right: 10%;
+}
+
+section {
+    height: 500px;
+    padding-bottom: 50px;
+
+}
+
+.name-highlight {
+    color: #FF8367;
+}
+
+.text-highlight {
+    color: rgb(54, 57, 88);
+}
+
+.text-block {
+    color: #F46060;
+}
+
+.half-width {
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.button {
+    width: 170px;
+    text-decoration: none;
+    background-image: linear-gradient( 180deg, tomato, lightsalmon);
+    padding: 15px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.work-area {
+    height: 700px;
+    background-color: #F8F9FC;
+    padding-top: 60px;
+}
+.work-area h2{
+    text-align: center;
+}
+.work-block{
+    width: 80%;
+    margin: auto;
+}
+.block {
+    float: left;
+    width: 350px;
+    height: 380px;
+    padding: 22px;
+    box-shadow: 10px 10px 30px #ccc;
+    margin: 25px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    background-color: white;
+}
+.block h3{
+    font-size: 22px;
+}
+.block p{
+    color: #6C6C6C;
+}
+.inquiry-block{
+    width: 50%;
+    margin: auto;
+    margin-top: 120px;
+    padding:80px;
+    background: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.inquiry-block span{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 64px;
+    font-weight: normal;
+    padding-left: 40px;
+    color: white;
+}
+.right {
+    padding-top: 30px;
+    padding-right: 40px;
+    float: right;
+}
+.inquiry-area h3{
+    text-align: center;
+    font-size: 35px;
+    color: #363958;
+    line-height: 0%;
+}
+.center{
+    text-align: center;
+}
+.center img{
+    width: 40px;
+    height: 40px;
+    padding: 15px;
+}
